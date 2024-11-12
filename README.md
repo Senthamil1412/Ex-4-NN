@@ -1,8 +1,8 @@
 
-<H3>NAME   : SENTHAMIL SELVAN </H3>
+<H3>NAME   : SENTHAMIL SELVAN G </H3>
 <H3>REG NO :212222230139</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE:</H3>
+<H3>DATE: 7/11/2004</H3>
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
 <H3>Aim:</H3>
 To implement a Multilayer Perceptron for Multi classification
